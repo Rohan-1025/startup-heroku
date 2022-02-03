@@ -8,12 +8,8 @@ This web app predicts the whether a startup will operate or not in the future ba
 The web app was built in Python using the following libraries:
 
 *streamlit
-
 *pandas
-
 *numpy
-
 *scikit-learn
-
 *pickle
 
