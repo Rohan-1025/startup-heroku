@@ -5,7 +5,8 @@ This web app predicts the whether a startup will operate or not in the future ba
 (Founded At, Funding Rounds, Funding Total Usd, Milestones, relationships, Latitude, Longitude, Category Code, Country Code).
 
 
-The web app was built in Python using the following libraries:-
+The web app was built in Python using the following libraries:
+
 streamlit
 pandas
 numpy
